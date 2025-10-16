@@ -4,7 +4,7 @@ Landing moderna hecha con **Next.js (App Router) + TypeScript + Tailwind CSS**.
 Incluye hero con CTA a WhatsApp, secciones de características, “cómo funciona”, precios,
 FAQ y un FAB (botón flotante) de WhatsApp con brillo/pulse.
 
-![Bolt.IA](public/LogoTipoBolt.IA.png)
+![Bolt.IA](public/LogoTipoBolt.IA_main.png)
 
 ---
 
